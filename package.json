@@ -1,0 +1,11 @@
+{
+  "name": "myApp",
+  "version": "1.0.0",
+  "description": "Simple express server",
+  "main": "app.js",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "Jozef Woroniecki",
+  "license": "MIT"
+}
